@@ -1,9 +1,12 @@
 - 👋 Hi, I’m David - @dargles
 - 👀 There's all sorts of things that take my fancy, including:
-- <ul>
+
         * sailing, especially racing old dinghies
+ 
         * cars, especially our 31 year old MX5 (the one ewith the pop-up headlights)
+  
         * walking, by the coast or in the nearby New Forest
+
         * and of course the obvious stuff, like maker electronics, coding, website design, etc
    </ul>
 - 🌱 I’m currently learning... Umm, Dutch, and brushing up my French. And how to use SPIFFS to keep my data during ESP deep sleep.
